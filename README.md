@@ -1,2 +1,2 @@
 # Form-Validation
-A Form that validates user input usng JavaScript.
+A Form that validates user input using JavaScript.
